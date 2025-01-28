@@ -1,1 +1,5 @@
-alert("Hi");
+(()=>{
+
+    document.title = "Amazing";
+
+})();
